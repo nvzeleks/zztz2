@@ -1,0 +1,23 @@
+{
+    "name": "Su-57 Felon",
+    "slug": "su57-felon",
+    "author": "phantom-4[7h8][usaf]",
+    "mass": 18500,
+    "baseAircraftID": 8,
+    "engine": {
+        "thrustDry": 20000,
+        "thrustWet": 28000,
+        "maxRPM": 4000,
+        "idleRPM": 300,
+        "afterburner": true
+    },
+    "dimension": {
+        "scale": 0.096
+    },
+    "parts": [
+        {
+            "name": "body",
+            "modelUrl": "su57.glb"
+        }
+    ]
+}
